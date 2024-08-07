@@ -105,7 +105,7 @@ pkg install wget
 pkg install yarn
 ```
 ```
-git clone (copy and paste your forked repo link not mine to save changes your changes) 
+git clone https://github.com/Cytrak/BADBOI-v2
 ```
 ```
 cd BADBOI-v2
